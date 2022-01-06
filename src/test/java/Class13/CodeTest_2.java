@@ -43,11 +43,7 @@ public class CodeTest_2 {
             System.out.println("Question 4 Input 3 = " + missingNum(arrayGiven_3));
             int[] arrayGiven_4 = {-2, -5, -1, -10, -6};
             System.out.println("Question 4 Input 4 = " + missingNum(arrayGiven_4));
-
-
-
-
-
+            
 
         }
 
